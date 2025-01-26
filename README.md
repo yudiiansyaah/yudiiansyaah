@@ -44,4 +44,4 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🏅 Skill Badges
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,c/cpp,java,docker,linux,aws,gcp,git&size=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,c,cpp,java,docker,linux,debian,ubuntu,kali,fedora,arch,aws,gcp,git&size=20)](https://skillicons.dev)
