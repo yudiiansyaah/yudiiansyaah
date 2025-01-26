@@ -20,8 +20,12 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🌟 Projects
 
-- **[My Project]:** [Repository] ([Repository Link](#))  
-- **[Project Name 2]:** [Short Description] ([Repository Link](#))  
+- **[My Project]:** [YudS-OSINT] ([Repository Link](#https://github.com/yudiiansyaah/YudS-OSINT.git))  
+- **[Python Ethical Hacking]:** [Simple Ethical Hacks] ([Repository Link](#https://github.com/yudiiansyaah/python-ethical-hacking.git))
+
+## 🏅 Certificate
+
+- **[My Certificate]:** ([Certificate Link](#https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing))
 
 ## 🎯 Goals
 
@@ -31,7 +35,7 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 📫 Contact Me
 
-- **Email:** [yudiiansyaah@example.com](mailto:yudiiansyaah@example.com)
+- **Email:** [Email Link](411221035@mahasiswa.undira.ac.id)
 
 ## 🎉 Fun Facts
 
@@ -40,4 +44,4 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🏅 Skill Badges
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,docker,kubernetes,aws,gcp,git&size=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,docker,linux,aws,gcp,git&size=20)](https://skillicons.dev)
