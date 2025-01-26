@@ -25,7 +25,7 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🏅 Certificate
 
-- **[My Certificate]:** ([Certificate Link](https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing))
+- **[My Certificate]:** (Certificate Link(https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing)
 
 ## 🎯 Goals
 
