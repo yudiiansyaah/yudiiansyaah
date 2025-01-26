@@ -20,12 +20,12 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🌟 Projects
 
-- **[My Project]:** [YudS-OSINT] ([Repository Link](https://github.com/yudiiansyaah/YudS-OSINT.git))  
-- **[Python Ethical Hacking]:** [Simple Ethical Hacks] ([Repository Link](https://github.com/yudiiansyaah/python-ethical-hacking.git))
+- **[My Project]:** YudS-OSINT ([Repository Link](https://github.com/yudiiansyaah/YudS-OSINT.git))  
+- **[Python Ethical Hacking]:** Simple Ethical Hacks ([Repository Link](https://github.com/yudiiansyaah/python-ethical-hacking.git))
 
 ## 🏅 Certificate
 
-- **[My Certificate]:** (Certificate Link(https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing)
+- **[My Certificate]:** ([Certificate Link](https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing))
 
 ## 🎯 Goals
 
@@ -35,7 +35,7 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 📫 Contact Me
 
-- **Email:** [Email Link](411221035@mahasiswa.undira.ac.id)
+- **Email:** Contac@me[Email Link](411221035@mahasiswa.undira.ac.id)
 
 ## 🎉 Fun Facts
 
