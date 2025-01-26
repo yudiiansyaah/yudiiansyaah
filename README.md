@@ -1,4 +1,4 @@
-# Hi, I am @yudiiansyaah! 👋
+# Hi, I am Yudiansyah! 👋
 
 **I am a passionate Python programmer with a focus on software development and system security.**  
 I enjoy building efficient and secure applications and automating repetitive tasks.
