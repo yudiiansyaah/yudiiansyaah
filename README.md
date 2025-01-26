@@ -40,7 +40,7 @@ I enjoy building efficient and secure applications and automating repetitive tas
 ## 🎉 Fun Facts
 
 - I love solving **code puzzles** and participating in programming challenges.  
-- A big fan of **coffee** and **classical music**.  
+- A big fan of **coffee** and **music**.  
 
 ## 🏅 Skill Badges
 
