@@ -12,7 +12,7 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🛠️ Skills
 
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, Django, Flask)  
+- **Programming:** Python (Pandas, NumPy, Scikit-learn, Django, Flask), C/C++ Basic, Java Basic 
 - **Version Control:** Git  
 - **Cloud Platforms:** AWS, GCP  
 - **Infrastructure Tools:** Docker
@@ -20,12 +20,12 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🌟 Projects
 
-- **[My Project]:** YudS-OSINT ([Repository Link](https://github.com/yudiiansyaah/YudS-OSINT.git))  
-- **[Python Ethical Hacking]:** Simple Ethical Hacks ([Repository Link](https://github.com/yudiiansyaah/python-ethical-hacking.git))
+- **YudS-OSINT:** ([Repository Link](https://github.com/yudiiansyaah/YudS-OSINT.git))  
+- **Simple Ethical Hacking:** ([Repository Link](https://github.com/yudiiansyaah/python-ethical-hacking.git))
 
 ## 🏅 Certificate
 
-- **[My Certificate]:** ([Certificate Link](https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing))
+- **My Certificate:** ([Certificate Link](https://drive.google.com/drive/folders/1ZyFj4mYvCHrIVYXjxf46AbppjpQyY1Jk?usp=sharing))
 
 ## 🎯 Goals
 
@@ -44,4 +44,4 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🏅 Skill Badges
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,docker,linux,aws,gcp,git&size=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,c/cpp,java,docker,linux,aws,gcp,git&size=20)](https://skillicons.dev)
