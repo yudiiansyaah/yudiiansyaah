@@ -20,8 +20,9 @@ I enjoy building efficient and secure applications and automating repetitive tas
 
 ## 🌟 Projects
 
-- **YudS-OSINT:**  [Repository Link](https://github.com/yudiiansyaah/YudS-OSINT.git)  
+- **YudS-OSINT:**              [Repository Link](https://github.com/yudiiansyaah/YudS-OSINT.git)  
 - **Simple Ethical Hacking:**  [Repository Link](https://github.com/yudiiansyaah/python-ethical-hacking.git)
+- **Social Media Tracker:**    [Repository Link](https://github.com/yudiiansyaah/sosmed-tracker.git)
 
 ## 🏅 Certificate
 
