@@ -8,15 +8,14 @@ I enjoy building efficient and secure applications and automating repetitive tas
 - **Software Development:** Building web, desktop applications, and utility tools using Python.  
 - **System Security:** Analyzing vulnerabilities, conducting penetration testing, and applying best security practices.  
 - **Automation:** Leveraging Python to automate daily tasks and enhance productivity.  
-- **Machine Learning:** Implementing machine learning models to solve complex problems.  
 
 ## 🛠️ Skills
 
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, Django, Flask), C/C++ Basic, Java Basic 
+- **Operating System:** Linux (Debian/Ubuntu, Kali Linux, Arch Linux, Fedora, etc)
+- **Programming:** Python, C/C++ Basic, Java Basic 
 - **Version Control:** Git  
 - **Cloud Platforms:** AWS, GCP  
 - **Infrastructure Tools:** Docker
-- **Operating System:** Linux (Debian/Ubuntu, Kali Linux, Arch Linux, Fedora, etc)
 
 ## 🌟 Projects
 
